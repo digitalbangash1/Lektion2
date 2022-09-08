@@ -1,4 +1,4 @@
-package com.example.lektion2.ui.theme
+  package com.example.lektion2.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
